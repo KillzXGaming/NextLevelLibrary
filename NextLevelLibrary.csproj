@@ -37,10 +37,4 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Hashes.txt">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
 </Project>

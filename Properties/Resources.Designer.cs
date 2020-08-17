@@ -64,11 +64,13 @@ namespace NextLevelLibrary.Properties {
         ///   Looks up a localized string similar to bip01
         ///bip01 backrightbone
         ///bip01 belly
+        ///bip01 c_lowerhead_control
         ///bip01 centerbone
         ///bip01 crown
         ///bip01 crownnub
         ///bip01 footsteps
         ///bip01 front_end
+        ///bip01 hatbone
         ///bip01 head
         ///bip01 headnub
         ///bip01 jewel
@@ -91,9 +93,7 @@ namespace NextLevelLibrary.Properties {
         ///bip01 neck
         ///bip01 neck1
         ///bip01 pelvis
-        ///bip01 poltergustbone
-        ///bip01 ponytail1
-        ///bip01 p [rest of string was truncated]&quot;;.
+        ///Bip0 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string BoneNames {
             get {
@@ -142,38 +142,6 @@ namespace NextLevelLibrary.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to AAPostProcess
-        ///AOPostProcess
-        ///AtmosphericFog
-        ///Balloon_Scary
-        ///Base_Blended_Metal
-        ///Base_Blinking
-        ///Base_Boss_Eyes
-        ///Base_Candle
-        ///Base_CrossSection_01
-        ///Base_Emissive
-        ///Base_Emissive_Unlit
-        ///Base_Enviroment_Cutout
-        ///Base_Environment
-        ///Base_Environment_3Tint
-        ///Base_Environment_Carpets
-        ///Base_Environment_DetailN
-        ///Base_Environment_Dusty
-        ///Base_Environment_Fogless_01
-        ///Base_Environment_Grunge
-        ///Base_Environment_Grunge_DetailN
-        ///Base_Environment_MetalMap_DetailN
-        ///Base_Environment_MetalMap_Wear
-        ///Base_Environment_Paintings
-        ///Base_ [rest of string was truncated]&quot;;.
-        /// </summary>
-        internal static string Hashes {
-            get {
-                return ResourceManager.GetString("Hashes", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to ## LM3 ##
         ///aapostprocess
         ///aopostprocess
@@ -206,72 +174,71 @@ namespace NextLevelLibrary.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to polterpup
-        ///luigicleaner
-        ///flashlight
-        ///bloo
-        ///bloo_gold
-        ///bully
-        ///chaser
-        ///ghost
-        ///chaseronline
-        ///creeper
-        ///gobber
-        ///gobber_strong
-        ///ghosthider
-        ///possessor
-        ///poltergeist
-        ///poltergeist_strong
-        ///sneaker
-        ///sister01
-        ///sister02
-        ///sister03
-        ///sister04
-        ///bellhop
-        ///caveman
-        ///headmaid
-        ///chef
-        ///dj
-        ///king
-        ///boolossus
-        ///boo
-        ///cone
-        ///leaf
-        ///bill
-        ///egadd
-        ///peach
-        ///king/boo
-        ///paper
-        ///rixer
-        ///toad
-        ///grump
-        ///amysuo
-        ///anniee
-        ///aouqae
-        ///bat
-        ///box
-        ///fog
-        ///goo
-        ///lid
-        ///off
-        ///lit
-        ///blue
-        ///body
-        ///boot
-        ///card
-        ///crow
-        ///dirt
+        ///   Looks up a localized string similar to attack
+        ///background
+        ///beetle
+        ///blocked
+        ///boards
+        ///bottle
+        ///breaking
+        ///bricks
+        ///carpers
+        ///ceiling
+        ///checker
+        ///closed
+        ///closing
+        ///cloth
+        ///cobble
+        ///collapse
+        ///consume
+        ///create
+        ///curtain
+        ///cushion
+        ///destroy
+        ///detached
         ///door
+        ///doorknob
         ///eyes
+        ///emitter
+        ///exorcising
         ///face
+        ///floor
+        ///fog
+        ///frames
         ///free
-        ///frog
+        ///fruits
+        ///glasses
         ///glow
+        ///glowing
+        ///goggles
+        ///goo
+        ///heart
         ///idle
+        ///inactive
+        ///inset
+        ///lamplight
         ///lens
-        ///main
+        ///lenses
+        ///lid
+        ///metal
+        ///monitors
+        ///off
         ///open
-        ///p [rest of string was truncated]&quot;;.
+        ///opening
+        ///paddle
+        ///path
+        ///peek
+        ///pillow
+        ///pipe
+        ///plain
+        ///planks
+        ///plant
+        ///portal
+        ///possessed
+        ///ripped
+        ///robomb
+        ///rope
+        ///sha [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Misc {
             get {
@@ -314,111 +281,6 @@ namespace NextLevelLibrary.Properties {
         internal static string ScriptStrings {
             get {
                 return ResourceManager.GetString("ScriptStrings", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 2
-        ///1080
-        ///&amp;c
-        ///10-point
-        ///10th
-        ///11-point
-        ///12-point
-        ///16-point
-        ///18-point
-        ///1st
-        ///2,4,5-t
-        ///2,4-d
-        ///20-point
-        ///2D
-        ///2nd
-        ///30-30
-        ///3D
-        ///3-D
-        ///3M
-        ///3rd
-        ///48-point
-        ///4-D
-        ///4GL
-        ///4H
-        ///4th
-        ///5-point
-        ///5-T
-        ///5th
-        ///6-point
-        ///6th
-        ///7-point
-        ///7th
-        ///8-point
-        ///8th
-        ///9-point
-        ///9th
-        ///a
-        ///a&apos;
-        ///a-
-        ///A&amp;M
-        ///A&amp;P
-        ///A.
-        ///A.A.A.
-        ///A.B.
-        ///A.B.A.
-        ///A.C.
-        ///A.D.
-        ///A.D.C.
-        ///A.F.
-        ///A.F.A.M.
-        ///A.G.
-        ///A.H.
-        ///A.I.
-        ///A.I.A.
-        ///A.I.D.
-        ///A.L.
-        ///A.L.P.
-        ///A.M.
-        ///A.M.A.
-        ///A.M.D.G.
-        ///A.N.
-        ///a.p.
-        ///a.r.
-        ///A.R.C.S.
-        ///A.U.
-        ///A.U.C.
-        ///A.V.
-        ///a.w.
-        ///A.W.O.L.
-        ///A/C
-        ///A/F
-        ///A/O
-        ///A/P
-        ///A/V
-        ///A1
-        ///A-1
-        ///A4
-        ///A5
-        ///AA
-        ///AAA
-        ///AAAA
-        ///AAAAAA
-        ///AAAL
-        ///AAAS
-        ///Aaberg
-        ///Aachen
-        ///AAE
-        ///AAEE
-        ///AAF
-        ///AAG
-        ///aah
-        ///aahed
-        ///aahing
-        ///aahs
-        ///AAII
-        ///aal
-        /// [rest of string was truncated]&quot;;.
-        /// </summary>
-        internal static string words {
-            get {
-                return ResourceManager.GetString("words", resourceCulture);
             }
         }
     }
