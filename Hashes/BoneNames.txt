@@ -1,0 +1,255 @@
+﻿bip01
+bip01 backrightbone
+bip01 belly
+bip01 c_lowerhead_control
+bip01 centerbone
+bip01 crown
+bip01 crownnub
+bip01 footsteps
+bip01 front_end
+bip01 hatbone
+bip01 head
+bip01 headnub
+bip01 jewel
+bip01 jewelnub
+bip01 l calf
+bip01 l clavicle
+bip01 l finger0
+bip01 l finger0nub
+bip01 l finger21
+bip01 l foot
+bip01 l forearm
+bip01 l hand
+bip01 l thigh
+bip01 l toe0
+bip01 l toe0nub
+bip01 l upperarm
+bip01 lefteye01
+bip01 lower_jaw
+bip01 midleftbone
+bip01 neck
+bip01 neck1
+bip01 pelvis
+Bip01 Poltergust
+bip01 poltergust_fan
+bip01 poltergust_innercore
+bip01 poltergust_innercorerot
+bip01 poltergustbone
+bip01 ponytail1
+bip01 ponytail2
+bip01 prop1
+bip01 r calf
+bip01 r clavicle
+bip01 r finger0
+bip01 r finger0nub
+bip01 r finger12
+bip01 r foot
+bip01 r forearm
+bip01 r hand
+bip01 r thigh
+bip01 r toe0
+bip01 r toe0nub
+bip01 r upperarm
+bip01 righteye01
+bip01 spine
+bip01 spine1
+Bip01 Spine2
+bip01 spine3
+bip01 stair_01_end
+bip01 stair_02_end
+bip01 stair_03
+bip01 stair_03_end
+bip01 stair_04_end
+bip01 stair_05
+bip01 stair_05_end
+bip01 stair_06_end
+bip01 tail
+bip01 tail1
+bip01 tail2
+bip01 tail3
+bip01 tailnub
+bip01 tongue
+bip01 tongue02
+bip01 tongue03
+bip01 tongue04
+bip01 tonguenub
+bip01 upper_jaw
+bip01 vacuumend
+bip01 zmouthcorner l
+bip01 zmouthcorner lnub
+bip01 zmouthcorner r
+bip01 zmouthcorner rnub
+bip01_arm_rgt_exp
+bip01_base_hub_exp
+bip01_c_head_exp
+bip01_c_jaw_01_exp
+bip01_c_jaw_exp
+bip01_c_mouthup_exp
+bip01_c_neck02_exp
+bip01_c_neck03_exp
+bip01_c_necklace_exp
+bip01_c_nose_exp
+bip01_c_pelvis_exp
+Bip01_C_Spine03_Exp
+bip01_c_spine04_exp
+bip01_c_spine_01_exp
+bip01_c_tail_03_exp
+bip01_c_tail_05_exp
+bip01_com_exp
+bip01_crown
+bip01_crownnub
+bip01_footsteps
+bip01_hat01_exp
+bip01_hat_front_exp
+bip01_head
+bip01_head_exp
+bip01_head_tail_01_exp
+bip01_headnub
+bip01_jaw_exp
+bip01_jewel
+bip01_nose2_exp
+bip01 poltergust_fan
+bip01_jewelnub
+bip01_crown_gem_exp
+bip01_l_arm_prop_exp
+bip01_l_armphalanges_exp
+bip01_rfoot_exp
+bip01_lfoot_exp
+bip01_l_calf
+bip01_l_clavicle
+bip01_l_finger0
+bip01_l_finger0nub
+bip01_l_foot
+bip01_l_forearm
+bip01_l_hand
+bip01_l_nose_exp
+bip01_l_thigh
+bip01_l_toe0
+bip01_l_toe0nub
+bip01_l_tongue_chain_010_exp
+bip01_l_upperarm
+bip01_larm_indexfinger03_exp
+bip01_larm_middlefinger02_exp
+bip01_larm_middlefinger03_exp
+bip01_larm_ringfinger03_exp
+bip01_larmpalm_exp
+bip01_lid_exp
+bip01_lleg_middlefinger01_exp
+bip01_mouth_l_exp
+bip01_neck
+bip01_neck2_exp
+bip01_neck_exp
+bip01_nightcap_exp
+bip01_nose2_exp
+bip01_nose_exp
+bip01_pelvis
+bip01_r_mouthlow
+Bip01_vacuum
+emitter_painting
+bip01_r_mouth_exp
+Bip01_prop_face_exp
+bip01_prop_head_exp
+Bip01_Prop_Left_Exp
+bip01_prop_left_exp
+bip01_prop_right_exp
+Bip01_Prop_Torso_Exp
+bip01_r_arm_prop_exp
+bip01_r_base_01_exp
+bip01_r_calf
+bip01_r_clavicle
+bip01_r_earing
+bip01_r_finger0
+bip01_r_finger0nub
+bip01_r_foot
+bip01_r_forearm
+bip01_r_hand
+bip01_r_thigh
+bip01_r_toe0
+bip01_r_toe0nub
+bip01_r_upperarm
+bip01_rarm_bone_exp
+bip01_rarm_indexfinger03_exp
+bip01_rarm_middlefinger02_exp
+bip01_rarm_middlefinger03_exp
+bip01_rarm_ringfinger03_exp
+bip01_rarmpalm_exp
+bip01_rleg_middlefinger01_exp
+bip01_spine
+bip01_spine1_exp
+bip01_spine3_exp
+bip01_spine_01_exp
+bip01_spine_04_exp
+bip01_tail
+Bip01_Tail02_Exp
+Bip01_Tail03_Exp
+bip01_tail7_exp
+bip01_tail_06_exp
+bip01_tail_exp
+bip01_tailnub
+bip01_tongue
+bip01_tongue02
+bip01_tongue03
+bip01_tongue04
+bip01_tongue_base_exp
+bip01_tonguenub
+Bip01_TopHead_Exp
+bip01_tophead_exp
+Bip01_Torso_Exp
+bip01_upper_head_exp
+bip01_upperteeth_exp
+Bip01_vacuum
+bip01_vacuum
+bip01_vault_lift
+bip01_zmouthcorner_l
+bip01_zmouthcorner_lnub
+bip01_zmouthcorner_r
+bip01_zmouthcorner_rnub
+bone003
+bone005
+bone_anim
+bone_attach
+bone_attach_mid
+bone_balloon01
+bone_balloon02
+bone_balloon_01
+bone_balloon_02
+bone_balloon_03
+bone_balloon_04
+bone_body
+bone_chain009
+bone_chain012
+bone_chain014
+bone_chain016
+bone_chain026
+bone_cloth001
+bone_cloth003
+bone_cloth005
+bone_cloth008
+bone_cloth009
+bone_cloth022
+bone_cloth024
+bone_cloth083
+bone_cloth135
+bone_cloth181
+bone_cloth346
+bone_cone03
+bone_cone04
+bone_effect
+bone_effect2
+bone_effects
+bone_emitter
+bone_fx
+bone_light
+bone_plunger
+bone_plunger001
+bone_plunger01
+bone_plunger02
+bone_shootable
+bone_spout
+bone_target
+bone_targetable
+centroid
+ghostkingboo
+kingboomorphs_ns_
+kingboomorphs_ns_stun_brow
+root
